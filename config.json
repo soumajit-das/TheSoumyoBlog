@@ -1,0 +1,21 @@
+{
+      "params" :
+      {
+            "local_server" : "True",
+            "local_uri" : "mysql://root:@localhost/soumyoblog",
+            "prod_uri" : "mysql://root:@localhost/soumyoblog",
+            "blog_title" : "The Soumyo Blog",
+            "blog_name" : "Soumyo Blog",
+            "tag_line" : "A Blog liked by Programmers",
+            "gmail-user" : "soumyotestfordev@gmail.com",
+            "gmail-password" : "soumyo@test",
+            "fb_url" : "https://facebook.com/soumyoblog",
+            "tw_url" : "https://twitter.com/soumyoblog",
+            "gh_url" : "https://github.com/soumyoblog",
+            "about_text" : "Hi I am Soumyo and I'm a writer, poet, programmer and a Computer Engineer.",
+            "no_of_posts" : 3,
+            "admin_user" : "soumyo",
+            "admin_password" : "@soumyo",
+            "upload_location" : "E:\\Programming\\Python\\Flask\\static\\uploads"
+      }
+}
